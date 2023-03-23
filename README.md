@@ -3,4 +3,4 @@ Website hosting a Virtual lab for the detection Of Both SA0 And SA1 faults On Ba
 
 Ajay Vikram P - ajayvikramp@gmail.com
 
-Project link - 
+Project link - https://ajay-vikram.github.io/NAND_and_NOR_StuckAtFault-master/
